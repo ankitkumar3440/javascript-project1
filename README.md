@@ -1,1 +1,1 @@
-# javascript-project1.github.io
+# javascript-project1
